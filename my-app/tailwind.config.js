@@ -25,6 +25,9 @@ module.exports = {
         aBold: ["Assistant-Bold", "sans-serif"],
         aExBold: ["Assistant-ExtraBold", "sans-serif"],
         rMedium: ["Raleway-Medium", "sans-serif"],
+      },
+      fontSize: {
+        'xxs': '0.625rem'
       }
     },
   },

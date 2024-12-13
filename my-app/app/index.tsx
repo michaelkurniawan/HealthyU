@@ -8,7 +8,7 @@ const App = () => {
   return (
     <View className='flex-1 justify-center items-center'>
       <Text className='text-3xl font-aExLight'>HealthyU</Text>
-      <Link href={"./(tabs)/profil"} className='text-xs'>Go to profile</Link>
+      <Link href={"./(tabs)/profile"} className='text-xs'>Go to profile</Link>
     </View>
   )
 }
