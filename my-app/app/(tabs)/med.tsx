@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const siklus = () => {
+const MedReminder = () => {
   return (
     <View>
-      <Text>siklus</Text>
+      <Text>MedReminder</Text>
     </View>
   )
 }
 
-export default siklus
+export default MedReminder
 
 const styles = StyleSheet.create({})

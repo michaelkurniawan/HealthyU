@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const bmi = () => {
+const BMI = () => {
   return (
     <View>
-      <Text>bmi</Text>
+      <Text>BMI</Text>
     </View>
   )
 }
 
-export default bmi
+export default BMI
 
 const styles = StyleSheet.create({})

@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const obat = () => {
+const Community = () => {
   return (
     <View>
-      <Text>obat</Text>
+      <Text>Community</Text>
     </View>
   )
 }
 
-export default obat
+export default Community
 
 const styles = StyleSheet.create({})
